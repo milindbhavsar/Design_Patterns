@@ -63,7 +63,16 @@ Behavioural
       e. An object which represents an instruction to perform a particular action
       
   3.  Iterator
-  4.  Interpreter
+  4.  Interpreter  
+      a. A component that processes structured text data
+         Lexing  : Generate separate lexical tokens
+         Parsing : Interepreting sequences of tokens
+      b. Turning String into OOP based structures in a complicated process   
+      c. Examples
+          -Programming Language compilers , interpreters , IDEs
+          -HTML,XML parser
+          -Numeric and Regular expressions 
+     
   5.  Mediator 
       a. Facilitates communication between components
       b. Components may go in and out of the system at anytime.
