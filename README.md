@@ -30,6 +30,8 @@ Creational
 Structural
 
   1. Adapter
+     a. Getting the interface you want from the interface you have
+     
   2. Bridge -  
      
      a. Stronger form of Encapsulation
@@ -39,6 +41,9 @@ Structural
      e. A mechanism that decouples interface(hierarchy) from implementation(hierarchy)
      
   3. Composite
+     a. Treating individual and aggregate objects uniformly
+     b. Make compound objects
+  
   4. Decorator
   5. Facade
   
