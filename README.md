@@ -66,6 +66,7 @@ Behavioural
   4.  Interpreter
   5.  Mediator 
       a. Facilitates communication between components
+      b. Components may go in and out of the system at anytime.
       
   6.  Memento
   7.  Null
